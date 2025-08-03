@@ -8,7 +8,7 @@ Do you want to meet us?
 
 Please use this link.
 
-[![Email](https://img.shields.io/badge/Email-sphylics@gmail.com-blue?style=flat&logo=gmail)](mailto:sphylics@gmail.com)  
+[![Email](https://img.shields.io/badge/Email-sphylics@googlegroups.com-blue?style=flat&logo=gmail)](mailto:sphylics@googlegroups.com)  
 [![X](https://img.shields.io/badge/X-@sphylics-1DA1F2?style=flat&logo=x)](https://x.com/sphylics)  
 [![Instagram](https://img.shields.io/badge/Instagram-@sphylics-E4405F?style=flat&logo=instagram)](https://www.instagram.com/sphylics)  
 [![Bluesky](https://img.shields.io/badge/Bluesky-@sphylics-1DA1F2?style=flat&logo=app.net)](https://bsky.app/profile/sphylics.bsky.social)  
